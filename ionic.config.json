@@ -1,0 +1,8 @@
+{
+  "name": "Limoncello Syndicate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "e06a43b1"
+}
